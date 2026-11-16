@@ -1,0 +1,6 @@
+{
+  "name": "college erp",
+  "description": "Comprehensive Institutional College ERP with Student Attendance, Fee Payments, Grade Management, and Faculty Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
